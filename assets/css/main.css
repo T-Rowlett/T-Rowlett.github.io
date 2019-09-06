@@ -2575,6 +2575,7 @@ input, select, textarea {
 		}
 		.icon:hover {
 			color: red;
+			
 		}
 		.icon:before {
 			line-height: inherit;
