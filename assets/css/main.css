@@ -2626,7 +2626,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border: 0;
+		border: 1.5px solid black;
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
@@ -8267,7 +8267,7 @@ input, select, textarea {
 			}
 
 				#wrapper > .invert a:hover {
-					color: #47D3E5;
+					color: red;
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
